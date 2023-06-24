@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "White table",
+    "img": "столик_3.jpg",
+    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "category": "tables",
+    "price": "59.99"
+  },
+  {
+    "id": 2,
+    "title": "Gold table",
+    "img": "столик.jpg",
+    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "category": "tables",
+    "price": "69.99"
+  },
+  {
+    "id": 3,
+    "title": "Dark table",
+    "img": "столик_2.jpg",
+    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "category": "tables",
+    "price": "45.99"
+  },
+  {
+    "id": 4,
+    "title": "Mirror",
+    "img": "зеркало.jpg",
+    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "category": "mirror",
+    "price": "15.99"
+  },
+  {
+    "id": 5,
+    "title": "Decorations gold",
+    "img": "украшения.jpg",
+    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "category": "decorations",
+    "price": "59.99"
+  },
+  {
+    "id": 6,
+    "title": "Decorations gold",
+    "img": "украшения_2.jpg",
+    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "category": "decorations",
+    "price": "59.99"
+  }
+]
