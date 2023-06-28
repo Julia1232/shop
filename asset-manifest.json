@@ -1,14 +1,20 @@
 {
   "files": {
     "main.css": "/shop/static/css/main.0076d8bc.css",
-    "main.js": "/shop/static/js/main.d4167ea3.js",
+    "main.js": "/shop/static/js/main.b3f17098.js",
     "static/media/bg.jpg": "/shop/static/media/bg.69e6df06fc0d3e3e0930.jpg",
+    "static/media/украшения.jpg": "/shop/static/media/украшения.f5ed673c217a955adf37.jpg",
+    "static/media/столик_2.jpg": "/shop/static/media/столик_2.d13c957e1d35e545b5ca.jpg",
+    "static/media/столик.jpg": "/shop/static/media/столик.54f699cbc50bad27c997.jpg",
+    "static/media/украшения_2.jpg": "/shop/static/media/украшения_2.33f02de987c5f2aebbcb.jpg",
+    "static/media/столик_3.jpg": "/shop/static/media/столик_3.e65c5a625f5fd9784c0f.jpg",
+    "static/media/зеркало.jpg": "/shop/static/media/зеркало.439b0e5d6ef7627e5e44.jpg",
     "index.html": "/shop/index.html",
     "main.0076d8bc.css.map": "/shop/static/css/main.0076d8bc.css.map",
-    "main.d4167ea3.js.map": "/shop/static/js/main.d4167ea3.js.map"
+    "main.b3f17098.js.map": "/shop/static/js/main.b3f17098.js.map"
   },
   "entrypoints": [
     "static/css/main.0076d8bc.css",
-    "static/js/main.d4167ea3.js"
+    "static/js/main.b3f17098.js"
   ]
 }
