@@ -69,6 +69,7 @@ class App extends React.Component {
     this.setState({ orders: this.state.orders.filter(el => el.id !== id) },
 
       () => { this.deleteOrderState() })
+    console.log(this.state.orders)
   }
   deleteOrderState() {
     localStorage.setItem('order', JSON.stringify(this.state.orders))

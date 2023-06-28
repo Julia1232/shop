@@ -2,48 +2,48 @@
   {
     "id": 1,
     "title": "White table",
-    "img": "столик_3.jpg",
-    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "img": "столик_3",
+    "desk": "AOLIVIYA bedside table, simple bedside table, simple economic small white bedside table for bedroom",
     "category": "tables",
     "price": "59.99"
   },
   {
     "id": 2,
-    "title": "Gold table",
-    "img": "столик.jpg",
-    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "title": "Gold Table",
+    "img": "столик",
+    "desk": "Nordic Simple Gold Marble Top Iron Coffee Table Living Room Minimalist Iron Bed Table Small Table Sofa Shelf 30*55cm",
     "category": "tables",
     "price": "69.99"
   },
   {
     "id": 3,
     "title": "Dark table",
-    "img": "столик_2.jpg",
-    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "img": "столик_2",
+    "desk": "Small coffee table round coffee table with 3 legs stable side table for living room bedroom office",
     "category": "tables",
     "price": "45.99"
   },
   {
     "id": 4,
     "title": "Mirror",
-    "img": "зеркало.jpg",
-    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "img": "зеркало",
+    "desk": "Retro Wall Mirror Metal Round Bathroom Mirror Home Bedroom Decorative   Mirror",
     "category": "mirror",
     "price": "15.99"
   },
   {
     "id": 5,
-    "title": "Decorations gold",
-    "img": "украшения.jpg",
-    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "title": "Decorations Gold",
+    "img": "украшения",
+    "desk": "Modern Golden Geometric Metal Balls Desktop Ornaments Office Home Room New Home Design Decor Metal Gifts",
     "category": "decorations",
     "price": "59.99"
   },
   {
     "id": 6,
-    "title": "Decorations gold",
-    "img": "украшения_2.jpg",
-    "desk": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla varius rhoncus mi, in ultricies lacus ultricies pharetra.",
+    "title": "Decorations Dark",
+    "img": "украшения_2",
+    "desk": "Lighting panel for living room/entrance/office, metal, minimalist, nordic style",
     "category": "decorations",
     "price": "59.99"
   }

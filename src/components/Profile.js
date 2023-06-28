@@ -10,28 +10,22 @@ const RegistrationForm = (props) => {
         e.preventDefault();
 
 
-        // Создайте объект с данными пользователя
         const userData = {
             name: name,
             email: email,
             password: password,
         };
 
-        // Обновите состояние и выполните отправку данных
         setName('');
         setEmail('');
         setPassword('');
 
 
-
-        // Отправьте данные на бэкэнд
         sendDataToBackend(userData);
     };
 
     const sendDataToBackend = (data) => {
-        // Выполните отправку данных на бэкэнд, используя библиотеку, такую как Axios или fetch
 
-        // // Пример с использованием Axios:
         // axios.post('/api/register', data)
         //     .then((response) => {
         //         // Обработайте успешный ответ от бэкэнда
@@ -41,7 +35,6 @@ const RegistrationForm = (props) => {
         //         // Обработайте ошибку
         //         console.error('Error:', error);
         //     });
-        console.log(123)
     };
     return (
         <div className="container-profile">
